@@ -10,18 +10,6 @@
 - 👯 I’m looking to collaborate on **open-source DevOps and AIops projects**
 
 - 📫 How to reach me **[LinkedIn](linkedin.com/in/praveen-chand-9ab2b2234)**
-
-- 💼 My Work Tech: [AI	Quantum Computing	Blockchain	Software	Cloud]( 
- 
-Category	AI	Quantum Computing	Blockchain	Software	Cloud
-Nature	Intelligence layer	Computation revolution	Trust infrastructure	Digital logic	Infrastructure layer
-Maturity	Mature & expanding	Emerging	Growing, early-stage	Established	Mature & evolving
-Target Users	Data scientists, engineers	Physicists, researchers	Fintech, developers	Developers, businesses	All industries
-Dependency	Needs data + compute	Needs qubits + cooling	Needs decentralization	Needs frameworks	Needs internet
-Future Role	Core in all systems	Enabler of new frontiers	Foundation of Web3	Basis of everything	Backbone of IT
- 
- )
-
 ---
 
 ### 🛠️ Languages & Tools
