@@ -1,10 +1,10 @@
 # Hi 👋, I'm Praveen Chand  
-**DevOps & Cloud Enthusiast** from India 🇮🇳
+**DevOps & Cloud Enthusiast** 
 
 🔭 I’m currently working on **SmartDeployPro** — a Multi-Cloud CI/CD DevOps Project  
 🌱 I’m Researching **Quantum-Computing**, and **AI-Enhanced Automation** ~ AI/AC
 👯 I’m looking to collaborate on open-source **DevOps** and **AIOps** projects  
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/praveenchandt) or [📧 Email](mailto:your-email@gmail.com)
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/praveen-chand-9ab2b2234)) or [📧 Email](mailto:praveenchandt74@gmail.com)
 
 ---
 
@@ -30,20 +30,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📂 My Projects
 
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenChand-arch&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenChand-arch&layout=compact&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=PraveenChand-arch&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [SmartDeployPro](https://github.com/PraveenChand1-arch/SmartDeployPro) | Multi-Cloud CI/CD pipeline with AI integration | GitHub, Docker, K8s, AWS, Azure, Terraform |
+| [Factory](https://github.com/PraveenChand1-arch/Factory) | Factory Management App | Python, Git, Docker, Ansible |
+| [SmartCityAI](https://github.com/PraveenChand1-arch/SmartCityAI) | AI-enabled Smart City automation | Python, MongoDB, GitHub |
+| [E-ComApp_Project](https://github.com/PraveenChand1-arch/E-ComApp_Project) | E-Commerce Practice App | HTML, CSS, JS |
+| [nginx-config](https://github.com/PraveenChand1-arch/ngnix-config) | NGINX Configuration files | Shell |
+| [ci-demo](https://github.com/PraveenChand1-arch/ci-demo) | GitHub Actions CI Demo | Python, GitHub Actions |
+| [language-color-demo](https://github.com/PraveenChand1-arch/language-color-demo) | GitHub language color demo | Multi-language repo |
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenchandt)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/praveen-chand-9ab2b2234)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenchand74@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenChand-arch&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenChand-arch&layout=compact&theme=github_dark)
