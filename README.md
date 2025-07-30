@@ -46,6 +46,6 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/praveen-chand-9ab2b2234)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn](https://www.linkedin.com/in/praveen-chand-9ab2b2234/)).
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenchand74@gmail.com)
 
