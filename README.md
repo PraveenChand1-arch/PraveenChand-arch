@@ -49,9 +49,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/praveen-chand-9ab2b2234)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenchand74@gmail.com)
 
----
-
-## 📈 GitHub Stats
-
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenChand-arch&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenChand-arch&layout=compact&theme=github_dark)
